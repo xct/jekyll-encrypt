@@ -15,7 +15,7 @@ Encrypts blog posts (on site generation) with aes-cbc-256 using a jekyll plugin.
 ---
 layout: secret_post
 title:  "Hello"
-date:   2019-01-91 00:00:00
+date:   2019-01-01 00:00:00
 key: "my_secret_key"
 
 ---
